@@ -1,6 +1,6 @@
 
 TITLE: 
-Farm Theory initial website
+The Farm Theory initial website
 
 CREDITS:
 
